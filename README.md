@@ -86,6 +86,10 @@ Stay tuned for more updates and advancements!
 6. ✨ editGPT
    - Proofread, edit and track changes to your text inside ChatGPT. Works in conjunction with the editGPT browser extension allowing you to accept and reject changes without leaving ChatGPT.
    - [Chat now](https://chat.openai.com/g/g-zpuYfzV7k-editgpt)
+  
+   ✍️ AI Essay Writer
+   - ChatGPT Essay Writer helps you write essays with OpenAI. Generate professional essays, customized writing style, advanced research capabilities, formatting, cost estimation, feedback & more.
+   - [Chat now](https://chat.openai.com/g/g-L2RrIFklR-ai-essay-writer)
 
 ## Education
 1. 📗All-around Teacher (Learn Everything in 3 min)
